@@ -1,0 +1,35 @@
+.titulomain {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: grey;
+}
+.card-text {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    
+}
+
+.textos {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+
+}
+.local {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+.numero {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+color: green;
+}
+
+   
